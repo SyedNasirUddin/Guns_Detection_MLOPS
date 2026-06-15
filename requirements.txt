@@ -1,0 +1,14 @@
+pandas
+numpy
+setuptools
+kagglehub
+torch
+torchvision
+opencv-python-headless
+Pillow
+tqdm
+PyYAML
+tensorboard
+dvc
+fastapi[all]
+uvicorn

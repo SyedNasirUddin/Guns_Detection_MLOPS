@@ -12,3 +12,4 @@ tensorboard
 dvc
 fastapi[all]
 uvicorn
+dvc-gs

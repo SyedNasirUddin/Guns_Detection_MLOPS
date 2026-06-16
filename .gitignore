@@ -5,5 +5,7 @@ artifacts/model/
 artifacts/weights/ 
 artifacts/model_checkpoint/
 artifacts/models/ 
-
+logs/
+runs/
+tensorboard_logs/
 Guns_Object_Detection_MLOPS_3.egg-info/ 

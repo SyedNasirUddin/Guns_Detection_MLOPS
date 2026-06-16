@@ -4,4 +4,6 @@ artifacts/processed/
 artifacts/model/ 
 artifacts/weights/ 
 artifacts/model_checkpoint/
+artifacts/models/ 
+
 Guns_Object_Detection_MLOPS_3.egg-info/ 

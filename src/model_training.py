@@ -48,7 +48,7 @@ class ModelTraining:
         try:
             dataset = GunDataset(self.dataset_path)
 
-            dataset = torch.utils.data.Subset(dataset,range(100))
+            #dataset = torch.utils.data.Subset(dataset,range(100))
 
             train_size = int(0.8*len(dataset))
             val_size = len(dataset) - train_size
@@ -264,7 +264,7 @@ if __name__=="__main__":
         learning_rate=0.0001,
         dataset_path="artifacts/raw/",
         device=device,
-        epochs=1
+        epochs=3
     )
 
     print("STARTING TRAINING")

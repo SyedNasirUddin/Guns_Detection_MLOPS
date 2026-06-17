@@ -23,10 +23,10 @@ stages:
       nfiles: 666
     - path: src/model_training.py
       hash: md5
-      md5: 9223160327d3d77b3850232a490965ae
-      size: 8560
+      md5: de8121205814695aa5219e402bf46078
+      size: 8561
     outs:
     - path: artifacts/models/fasterrcnn.pth
       hash: md5
-      md5: 1fdf1aa88eb6db0c25939aeb41a35f0d
+      md5: 8dda0b85357f6c1fd84e19efc79a75e4
       size: 76016109
